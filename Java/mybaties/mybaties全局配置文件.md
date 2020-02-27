@@ -2,7 +2,7 @@
 
 官方文档：[https://mybatis.org/mybatis-3/zh/configuration.html]()
 
-##properties（属性）
+## properties（属性）
 
 ### 语法
 
@@ -48,7 +48,7 @@ SqlSessionFactory factory = new SqlSessionFactoryBuilder().build(reader, environ
 
 ### 占位符
 
-####默认设置的占位符 （:）
+#### 默认设置的占位符 （:）
 
 从 MyBatis 3.4.2 开始，你可以为占位符指定一个默认值。例如：
 
@@ -223,7 +223,7 @@ type:数据源类型;UNPOOLED(UnpooledDataSourceFactory)|POOLED(PooledDataSource
 	</select>
 ~~~
 
-##mappers
+## mappers
 
 将sql映射注册到全局配置中：将我们写好的sql映射文件（EmployeeMapper.xml）一定要注册到全局配置文件（mybatis-config.xml）中 
 
