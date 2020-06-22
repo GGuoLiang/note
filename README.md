@@ -2,25 +2,17 @@
 
 ## [Java](https://github.com/GGuoLiang/note/tree/master/Java)
 
-###  spring
+###  spring相关的笔记
 
-#### [Spring4](https://github.com/GGuoLiang/note/blob/master/Java/spring/spring4.md)
-
-####  Spring[注解](https://github.com/GGuoLiang/note/blob/master/Java/spring/spring%E6%B3%A8%E8%A7%A3.md)
-
-#### SpringIOC
-
-####  [SpringAOP](https://github.com/GGuoLiang/note/blob/master/Java/spring/springAOP.md)
-
-###  SpringBoot
-
-#### SpringBoot [基本的集成操作](https://github.com/GGuoLiang/note/blob/master/Java/SpringBoot/Spring%20Boot.md)
-
-###  Springcloud
-
-### [maven](https://github.com/GGuoLiang/note/blob/master/Java/maven/Maven.md)
-
-### [mybaties](https://github.com/GGuoLiang/note/tree/master/Java/mybaties)
+1.  [Spring4](https://github.com/GGuoLiang/note/blob/master/Java/spring/spring4.md)
+2.  Spring[注解](https://github.com/GGuoLiang/note/blob/master/Java/spring/spring%E6%B3%A8%E8%A7%A3.md)
+3.  SpringIOC
+4.  [SpringAOP](https://github.com/GGuoLiang/note/blob/master/Java/spring/springAOP.md)
+5.  SpringBoot
+6.  SpringBoot [基本的集成操作](https://github.com/GGuoLiang/note/blob/master/Java/SpringBoot/Spring%20Boot.md)
+7.  Springcloud
+8.  [maven](https://github.com/GGuoLiang/note/blob/master/Java/maven/Maven.md)
+9.  [mybaties](https://github.com/GGuoLiang/note/tree/master/Java/mybaties)
 
 
 
